@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "valiant-imagery-342903",
+  "private_key_id": "a9d1f6eba10a770b2bf13787f47e187abab5624e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/cy8uwn8aahZL\ntJe392cvwjOqWWhmtbf8IeA8SLvP1GrHIpsBn/wpANPkEkjEXIKxZo2vuLYAWD3P\n3WUHdS2UvzoBSAzDBxq8wFPLSClwRwkfD7eO+0X/Fb5WRIl84TGAOluXjJhz82pk\nZ/hP3tgkwn+qL6x7J6CaU0egKHyUpebX4z+I0doq6Whs+Nja9zekaM1mac+u9Tw+\nMJZgjqMtrEMJ2wZGFWzS6Xdsy1JBgV+0nDelNDwnv38gO1LE3yY8kkkEU4sf9Gv7\niFgZC8PWhEvoeapDypvcWryYke+nE8SGOKlpdjDCL18mnDhijNeJFiaLQdR6Nr/N\nULYZtdHLAgMBAAECggEAEZfdqZ/g+0Xtd5aIbLT1DAv+IHTn5axkVGyuhQuwCqi8\nCUGyWeNgUkpLroVJn5Xawr+oXJIOU5jIUV5IhvdrMWSjSXPcDF4ORHMuIBupBzLX\n8T1KAn8vzwGqBJZ2xf2RxXVXbmVSqzEewUxWosxZM4OWJMcNxCF/nj7x8ZNW43f0\nvbkgKTavtPJxttmSn7nPak0zltkKQcIK+w6SB929W60H5M0ZmrnZabqFZH6QlaiS\neLSOn8yaCu2dZfeploZpqOY3YWyJFTkL9mIpanOM94TfG4uyn6vMwO427NcOzs7N\nefO2i6x3wA27OOfyvfnqtg65GpqSyVpgYsYP3zzeaQKBgQDgvN9OdzGZ3dnokEvh\nR3rebECdkgMmzMggIHUh5yh++Q/ElUMyyX7nxLlmVSDlJOefxCi65UD74VONijP+\nqjt5QWfXlLhUr7o0aY4iMfIWcKZWxLn1D9/VLyV4UseynvtHuZi67JcnlKj8AQbG\nUT6lcNCXE2nJC5Y5fvmr5+LDcwKBgQDaFOZnb+ngjDhMsShCsex6B7x6YqVlXoor\nWcr3Zjd67IYRhDb6Mmotw3EIslSJdF8VjvAwilbEbcxFxKgRQN/mkLC7oF2ejIgg\nAL78Ny93PZ6YWYzRxfQ8taA4miAIdLJvzXIQ/LuGNkhATmedz4+rj3cCwVTZw/mG\nUiWIrvoSSQKBgFHu6ea8c9vp0ukDunZOThBLHR+VPQrnO8riqnGKyevIt6Pu2wno\nBhlPUlxpis2fr8ZCiKriq9dopcKDcUNWIsqpOseQ08ckLdmv5f63gNAHj80wea9L\nc0pQnvOIEoAfj/LtSi5T1SO8AgOmCCdDNXixcYqyrC18yO77SOEQcE7bAoGBAI6j\nVuPWxiDxda1rvgqJd0OFpdhihw2bXUHndCKGv8jtxO7WDGNu8BXInDj08ugIrlxa\nZm1JPmEx84a6jrbiONAEWSQPSsx13F8aPdCXg7s5GW9KOxnFoO7IWOhMnqEJOuB3\nfqDvvPOWs4EkBw+n/69VoaCytP3N+XnKZvRUhgnJAoGBALXB319QCBPmwRo8xuLc\nAEHSar0iqgYAYo99UI5LVEcvx0Hd7QQKnYpkEtOVpqc7JLxtXwX5WBVqSt9A2u+U\nX7q860X2Uu0YmCw12T7Zd2lGBoeCAQSxsS1o1xVNOiSulGeQZ8BgJzsYemfBt1fm\n8eaEuK+Jlkwx7WsIdl1NvkLN\n-----END PRIVATE KEY-----\n",
+  "client_email": "finalproject@valiant-imagery-342903.iam.gserviceaccount.com",
+  "client_id": "100679132958093075501",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/finalproject%40valiant-imagery-342903.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

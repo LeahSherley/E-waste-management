@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57927787787",
+    "firebase_url": "https://myewaste-eed23-default-rtdb.firebaseio.com",
+    "project_id": "myewaste-eed23",
+    "storage_bucket": "myewaste-eed23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57927787787:android:f63bc93e7a473a4d2aae0e",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57927787787-0dubhi0aot56ek5c8c3tp7u8agh15jer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNpjYX4sqkCSJgurrN9tgwZ3MTSZx8mVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57927787787-0dubhi0aot56ek5c8c3tp7u8agh15jer.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "57927787787-g39j7hcnavnm23balsv55a57knaglpi2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
