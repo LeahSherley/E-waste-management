@@ -1,0 +1,4 @@
+#Tue Sep 26 11:43:14 EAT 2023
+base.0=/home/leah-sherley/Desktop/flutter_Projects/quiz_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
