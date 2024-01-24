@@ -11,8 +11,8 @@
         android:label="quiz_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
-        <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyDcEvJD33JGYZkWmH-x6EeIs76SDsU5NzI"/>
+        <meta-data android:name=""
+               android:value=""/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
