@@ -45,6 +45,7 @@ class _eWasteState extends State<eWaste> {
 
   void listenNotifications() =>
       Notifications.onNotifications.stream.listen(onSelected);
+      
   void onSelected(String? payload) {
     if (payload != null) {
       navigatorKey.currentState?.pushNamed(
